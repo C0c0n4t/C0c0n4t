@@ -11,4 +11,4 @@ No!
 
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0c0n4t&hide=Jupyter_Notebook&langs_count=8)
 
-[![C0c0n4t's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=C0c0n4t)](https://github.com/anuraghazra/github-readme-stats)
+[comment]: <> ([![C0c0n4t's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=C0c0n4t)](https://github.com/anuraghazra/github-readme-stats))
