@@ -1,19 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=db4ddb&random=false&width=435&lines=found+cool+widget;too+bad+i+can't+compose+a+single+line)](https://git.io/typing-svg)
 
-### Hi, I'm Vlad :suspect:
-<!--
-**Lolitron-0/Lolitron-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Vlad :bomb:
 
-Here are some ideas to get you started:
--->
-
-- I’m currently working on:
-  * Studying in university, working at ISP RAS, [plut](https://github.com/Lolitron-0/plut)
-- I’m learning:
-C++
-- How to reach me:
-https://t.me/lolitron
-- I worked with:
 #### 🖥️ Languages
 ![C++](https://img.shields.io/badge/lang-c%2B%2B-db4ddb?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/lang-c-db4ddb?style=for-the-badge&logo=c&logoColor=white)
